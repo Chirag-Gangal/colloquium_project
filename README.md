@@ -6,7 +6,8 @@ COLLOQUIUM REPORT ELC-4810
 
 SUBMITTED BY: NAME: - CHIRAG GANGAL
 FACULTY NO: - 18ELB366
-SERIAL NO: - 43 ENROLLMENT NO: - GK9181
+SERIAL NO: - 43 
+ENROLLMENT NO: - GK9181
 EMAIL ID- chiraggangal17@gmail.com
 
 Under Guidance Of: Supervisor
@@ -30,5 +31,5 @@ Here LSTM model is used, optimizer used Adam.
 
 Dataset is taken from Yahoo finance.
 
-For any queries or discussion:
+For any code, queries or discussion:
 contact me at: chiraggangal17@gmail.com
